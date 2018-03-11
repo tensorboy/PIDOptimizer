@@ -1,5 +1,5 @@
 # PIDOptimizer
-## Present, Past and Future Optimizer for deep learning optimization
+## PID (Present, Past and Future) Optimizer for deep learning optimization
 This is the code associated with A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018.
 ## Usage:
 ## Citation:
