@@ -1,4 +1,8 @@
 # PIDOptimizer
+## Requirements
+Tested under python2.
+- python packages
+  - matplotlib==2.0.2
 ## The full code will coming out at June. :)
 ## PID (Present, Past and Future) Optimizer for deep learning optimization
 This is the code associated with A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018.
