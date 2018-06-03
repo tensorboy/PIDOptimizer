@@ -10,5 +10,10 @@ This is the code associated with A PID Controller Approach for Stochastic Optimi
 ## Citation:
 If PIDOptimizer is used in your paper/experiments, please cite the following papers.
 ```
-
+@inproceedings{pid2018,
+   title={A PID Controller Approach for Stochastic Optimization of Deep Networks},
+   author={Wangpeng An and Haoqian Wang and Qingyun and Jun Xu and Qionghai Dai and Lei Zhang},
+   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+   year={2018}
+}
 ```

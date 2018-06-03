@@ -91,7 +91,7 @@ class PIDOptimizer(Optimizer):
                         D_buf = param_state['D_buffer']
                         g_buf = param_state['grad_buffer']        
                                         
-                        D_buf.mul_(momentum).add_(group['lr'], d_p-g_buf)   
+                        D_buf.mul_(momentum).add_(1-momentum, d_p-g_buf)   
                         g_buf = d_p.clone()                        
                         
                     d_p = d_p.add_(I, I_buf).add_(D, D_buf)
