@@ -16,7 +16,7 @@ Tested under python2.
 </div>
 
 ## Citation:
-If PIDOptimizer is used in your paper/experiments, please cite the following papers.
+If PIDOptimizer is used in your paper/experiments, please cite the following paper.
 ```
 @inproceedings{pid2018,
    title={A PID Controller Approach for Stochastic Optimization of Deep Networks},
