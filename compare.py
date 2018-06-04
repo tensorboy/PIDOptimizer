@@ -142,4 +142,4 @@ axs[indexes[0],indexes[1]].set_xlabel('Epoch')
  
 fig.tight_layout()
 
-savefig('moment_vs_pid.pdf')
+savefig('moment_vs_pid.jpg')

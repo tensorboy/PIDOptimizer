@@ -11,7 +11,7 @@ Tested under python2.
 `python compare.py`
 
 <div align="center">
-  <img src="moment_vs_pid.pdf" width="700px" />
+  <img src="moment_vs_pid.jpg" width="700px" />
   <p>PID Vs. SGD-Momentum</p>
 </div>
 
