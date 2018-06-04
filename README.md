@@ -4,9 +4,13 @@ Tested under python2.
 - python packages
   - matplotlib==2.0.2
 ## The full code will coming out at June. :)
-## PID (Present, Past and Future) Optimizer for deep learning optimization
+## A PID Controller Approach for Stochastic Optimization of Deep Networks
 This is the code associated with A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018.
 ## Visualization:
+## Train MLP on MNIST DATAST
+`python mnist_pid.py`
+`python mnist_momentum.py`
+`python compare.py`
 ## Citation:
 If PIDOptimizer is used in your paper/experiments, please cite the following papers.
 ```
