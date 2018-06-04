@@ -9,6 +9,12 @@ Tested under python2.
 `python mnist_pid.py`
 `python mnist_momentum.py`
 `python compare.py`
+
+<div align="center">
+  <img src="moment_vs_pid.pdf" width="700px" />
+  <p>PID Vs. SGD-Momentum</p>
+</div>
+
 ## Citation:
 If PIDOptimizer is used in your paper/experiments, please cite the following papers.
 ```
