@@ -12,7 +12,7 @@ If PIDOptimizer is used in your paper/experiments, please cite the following pap
 ```
 @inproceedings{pid2018,
    title={A PID Controller Approach for Stochastic Optimization of Deep Networks},
-   author={Wangpeng An and Haoqian Wang and Qingyun and Jun Xu and Qionghai Dai and Lei Zhang},
+   author={Wangpeng An and Haoqian Wang and Qingyun Sun and Jun Xu and Qionghai Dai and Lei Zhang},
    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
    year={2018}
 }
