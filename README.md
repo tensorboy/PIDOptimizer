@@ -3,7 +3,6 @@
 Tested under python2.
 - python packages
   - matplotlib==2.0.2
-## The full code will coming out at June. :)
 ## Visualization:
 ## Train MLP on MNIST DATAST
 `python mnist_pid.py`
