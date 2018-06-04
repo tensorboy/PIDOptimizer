@@ -1,4 +1,4 @@
-# This is the code associated with A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018.
+# This is the code associated with `A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018`.
 ## Requirements
 Tested under python2.
 - python packages
