@@ -5,7 +5,6 @@ This repository contains source code of the paper:
 ## Prerequisite: 
 * matplotlib==2.0.2
 
-## Visualization:
 ## Train MLP on MNIST DATAST
 `python mnist_pid.py`
 `python mnist_momentum.py`
