@@ -1,8 +1,10 @@
-# A PID Controller Approach for Stochastic Optimization of Deep Networks, CVPR 2018.
-## Requirements
-Tested under python2.
-- python packages
-  - matplotlib==2.0.2
+# PIDOptimizer (Proportional–Integral–Derivative Optimizer)
+This repository contains source code of the paper:
+* [*A PID Controller Approach for Stochastic Optimization of Deep Networks*](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_PID.pdf) (CVPR 2018)
+
+## Prerequisite: 
+* matplotlib==2.0.2
+
 ## Visualization:
 ## Train MLP on MNIST DATAST
 `python mnist_pid.py`
