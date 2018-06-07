@@ -18,11 +18,11 @@ This repository contains source code of the paper:
 ## Citation:
 If PIDOptimizer is used in your paper/experiments, please cite the following paper.
 ```
-@inproceedings{pid2018,
-   title={A PID Controller Approach for Stochastic Optimization of Deep Networks},
-   author={Wangpeng An and Haoqian Wang and Qingyun Sun and Jun Xu and Qionghai Dai and Lei Zhang},
-   booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-   month = {June},
-   year={2018}
+@InProceedings{An_2018_CVPR,
+author = {An, Wangpeng and Wang, Haoqian and Sun, Qingyun and Xu, Jun and Dai, Qionghai and Zhang, Lei},
+title = {A PID Controller Approach for Stochastic Optimization of Deep Networks},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
 }
 ```
