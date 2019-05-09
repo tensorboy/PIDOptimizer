@@ -1,7 +1,6 @@
 # PIDOptimizer (Proportional–Integral–Derivative Optimizer)
-This repository contains source code of the paper:
-* [*A PID Controller Approach for Stochastic Optimization of Deep Networks*](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_PID.pdf) (CVPR 2018)
-
+This repository contains source code of the CVPR 2018 paper:
+* [*A PID Controller Approach for Stochastic Optimization of Deep Networks*](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_PID.pdf), Code for paper in CVPR2019, Wangpeng An, Haoqian Wang, Qingyun Sun, Jun Xu, Qionghai Dai, Lei Zhang.
 ## Prerequisite: 
 * matplotlib==2.0.2
 
